@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Matheus Beck! 👋
+Entusiasta de Python e SQL, sempre imerso em Data Science, Machine Learning e IA. 
+Gosto de simplificar o complexo e estou sempre aberto a colaborar.
 
-<!--
-**matheussbeck/matheussbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tecnologias e Áreas de Estudo
+- Python: Meu favorito.
+- SQL: Estruturando dados.
+- Data Analytics & Data Engineering: Transformando dados em insights.
+- Machine Learning & IA: Explorando o futuro da tecnologia.
 
-Here are some ideas to get you started:
+- GO & Java & JavaScript: Aprendendo novas linguagens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Vamos Colaborar?
+Curto contribuir e aprender com projetos interessantes. Se tiver uma ideia, Vambora !
