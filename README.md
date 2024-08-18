@@ -21,7 +21,6 @@
 
 ###
 Entusiasta de Python e SQL, sempre imerso em Data Science, Machine Learning e IA. 
-Gosto de simplificar o complexo e estou sempre aberto a colaborar.
 
 ## 💻 Tecnologias e Áreas de Estudo
 - Python: Meu favorito.
