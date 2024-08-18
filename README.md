@@ -19,10 +19,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
 
-###
-Entusiasta de Python e SQL, sempre imerso em Data Science, Machine Learning e IA. 
+
+
 
 ## 💻 Tecnologias e Áreas de Estudo
+### Entusiasta de Python e SQL, sempre imerso em Data Science, Machine Learning e IA. 
 - Python: Meu favorito.
 - SQL: Estruturando dados.
 - Data Analytics & Data Engineering: Transformando dados em insights.
