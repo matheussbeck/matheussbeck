@@ -17,9 +17,7 @@
 - Python: Meu favorito.
 - SQL: Estruturando dados.
 - Data Analytics & Data Engineering: Transformando dados em insights.
-- Machine Learning & IA: Explorando o futuro da tecnologia.
-
-- GO & Java & JavaScript: Aprendendo novas linguagens.
+- JavaScript: Aprendendo novas linguagens.
 
 ## 🤝 Vamos Colaborar?
 Curto contribuir e aprender com projetos interessantes. Se tiver uma ideia, Vambora !
