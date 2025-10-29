@@ -13,8 +13,7 @@
 </div>
 
 ## 💻 Tecnologias e Áreas de Estudo
-### Entusiasta de Python e SQL, sempre imerso em Analytics Engineer. 
-- Python: Meu favorito.
+- Python: Meu Camisa 10.
 - SQL: Estruturando dados.
 - Data Analytics & Data Engineering: Transformando dados em insights.
 - JavaScript: Aprendendo novas linguagens.
