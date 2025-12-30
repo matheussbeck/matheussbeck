@@ -76,37 +76,3 @@ Currently shipping production code at **Raízen** (Brazil's largest energy compa
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussousabeck/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:matheussbeck@outlook.com)
-
----
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheussbeck&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussbeck&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8)
-
-</div>
-
----
-
-> 💡 **Note:** GitHub stats will appear once you have some public repositories. Feel free to remove this section if you prefer!
-
----
-
-### 🔧 Alternative: If stats don't load
-
-If the GitHub stats cards above don't load, you can either:
-
-1. **Remove the stats section entirely** (many developers don't use it)
-
-2. **Use this simpler version:**
-
-```markdown
-### 📊 GitHub Activity
-
-Check out my repositories below to see what I'm building! 👇
-```
-
-3. **Wait a few minutes** - GitHub Stats API sometimes takes time to generate cards for new accounts
-
-The cards will automatically update once you have public repositories with code.
