@@ -1,81 +1,88 @@
-# 👋 Olá, eu sou o Matheus Beck
+### Hey there 👋
 
-Sou **Engenheiro de Software** com sólida base em **Engenharia de Dados e Inteligência Artificial**, especializado no desenvolvimento de **sistemas escaláveis, inteligentes e integrados em nuvem**.  
-Atuo com **Python**, **Azure** e **AWS**, criando soluções que unem **engenharia de software, dados e IA aplicada** — desde automações e APIs até arquiteturas complexas com agentes inteligentes.
+I'm Matheus, a full-stack Python engineer building high-performance data systems and enterprise automation at scale.
+
+Currently shipping production code at **Raízen** (Brazil's largest energy company), where I'm responsible for systems that process **500K+ records/day** and serve **1K-2.5K users daily**.
 
 ---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="12" />
+### 🛠️ What I'm working on
+
+- **FastAPI + React app** replacing ServiceNow/Monday.com for our team (RESTful architecture, JWT auth, WebSockets, RBAC)
+- **ETL pipelines** on Azure Synapse processing 100K+ records every 5 minutes
+- **Automation ecosystem** - 135+ Python scripts saving 5,000+ hours/month
+- **Telegram bots** handling 1,000-2,500 daily users with real-time PDF delivery
+- **High-availability systems** with 99.8% SLA using Circuit Breaker, Exponential Backoff, and self-healing patterns
+
+---
+
+### 📚 Currently learning
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) Expanding into Java ecosystem for backend development
+
+---
+
+### 💻 Tech I work with daily
+
+**Backend & APIs**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Data & Databases**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+### 📊 Some numbers
+
+```python
+{
+    "data_warehouse_performance": "+800%",
+    "hours_saved_monthly": "5,000+",
+    "automation_scripts": 135,
+    "daily_users": "1,000-2,500",
+    "records_processed_daily": "500,000+",
+    "system_uptime": "99.8%",
+    "industrial_units": 28
+}
+```
+
+---
+
+### 🚀 Recent wins
+
+- 🥇 **1st Place** - Python BOT CIA Track @ Raízen 2024
+- 🏅 **Gold Kaizen Award** - Data visualization solution for sugarcane logistics
+
+---
+
+### 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussousabeck/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:matheussbeck@outlook.com)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheussbeck&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </div>
 
----
-
-## 💻 Áreas de Especialização
-
-- **Fullstack (Python + JavaScript)** — Aplicações web, interfaces dinâmicas e dashboards analíticos.
-- **Engenharia de Software** — Desenvolvimento backend com Python, APIs, automações, microsserviços e sistemas distribuídos.   
-- **Inteligência Artificial Aplicada** — IA generativa, NLP, visão computacional e agentes inteligentes integrados ao Copilot.
-- **Cloud (Azure / AWS / Docker)** — Deploy, orquestração, observabilidade e CI/CD em ambientes híbridos.
-- **Engenharia de Dados** — ETL, modelagem, pipelines em tempo real, clustering com HDBSCAN e governança de dados.  
-- **Java** — Aprimorando fundamentos de POO e estruturas corporativas escaláveis.  
-
-
----
-
-## 🚀 Projetos e Destaques
-
-- 🧠 **Agents do Copilot (Azure + Python)**  
-  Desenvolvimento e orquestração de agentes especializados para integração com IA, incluindo módulos de **Azure**, **SQL**, **API Integration** e **AI Orchestration**.  
-  Cada agente foi projetado com princípios de **resiliência, desacoplamento e escalabilidade**, utilizando arquitetura orientada a eventos e comunicação assíncrona.
-
-- 🤖 **Bot de Automação com Python + PostgreSQL + AWS/Azure**  
-  Sistema de automação para consultas e relatórios corporativos via Telegram, com persistência em nuvem e monitoramento contínuo.
-
-- 📊 **ETL Inteligente com HDBSCAN + Power BI**  
-  Pipeline otimizado em Python para agrupamento dinâmico de dados e geração automática de relatórios interativos, integrado a APIs e dashboards de controle.
-
-- 📈 **Modelo Quantitativo Mini-Índice Bovespa**  
-  Sistema supervisionado de predição de tendência com dados de alta frequência (5m candles), aplicando técnicas de feature engineering e estatística avançada.
-
-- 📄 **Extração de Texto com IA (SpaCy + Roboflow)**  
-  Solução para leitura e extração de dados de PDFs e imagens, com OCR e NLP aplicados a documentos reais.
-
----
-
-## ⚙️ Stack Principal
-
-`Python` • `FastAPI` • `LangChain` • `Pandas` • `SQLAlchemy` • `PostgreSQL` • `HDBSCAN`  
-`JavaScript` • `Node.js` • `HTML` • `CSS`  
-`Java` • `Docker` • `Azure` • `AWS` • `Power BI`
-
----
-
-## 🧭 Como eu trabalho
-
-- Arquiteturas limpas e escaláveis, com foco em desacoplamento e testabilidade.  
-- Pipelines de CI/CD, monitoramento e versionamento estruturado.  
-- Cultura de documentação técnica, comunicação clara e colaboração.  
-- Foco em **performance**, **resiliência** e **governança de dados**.  
-
----
-
-## 🤝 Vamos Colaborar?
-
-Busco continuamente evoluir como **Engenheiro de Software**, aplicando minha experiência em **dados, IA e arquitetura de sistemas** para criar soluções de alto impacto.  
-Se você gosta de inovação, automação e IA aplicada — **vamos conversar!**
-
-📫 [LinkedIn](https://www.linkedin.com/in/matheussousabeck/) • 💼 [GitHub](https://github.com/MatheusSBeck)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussbeck&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
